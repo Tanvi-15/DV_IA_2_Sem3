@@ -1,6 +1,8 @@
 # Tableau: Census Income
 This Repository contains the statistical analysis of the Census income dataset. This was done for the course work of Tableau during our 2nd year of engineering. All the screenshots regarding the visualization have been attached below.
-![This is an image](/Images/Tableau.png)
+
+
+<img src="/Images/Tableau.png" height="400" />
 
 ## Analysis and Visualization
 ![This is an image](/Images/G1.png)
