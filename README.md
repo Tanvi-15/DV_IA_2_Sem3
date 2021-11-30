@@ -5,13 +5,16 @@ This Repository contains the statistical analysis of the Census income dataset. 
 <img src="/Images/Tableau.png" height="400" />
 
 ## Analysis and Visualization
-![This is an image](/Images/G1.png)
-![This is an image](/Images/G2.png)
-![This is an image](/Images/G3.png)
-![This is an image](/Images/G4.png)
-![This is an image](/Images/G4.png)
-![This is an image](/Images/G5.png)
-![This is an image](/Images/G6.png)
+
+<img src="/Images/Census Income (1).png" height="400" width="550" />
+<img src="/Images/Census Income (2).png" height="400" width="550"/>
+<img src="/Images/Census Income (3).png" height="400" width="550"/>
+<img src="/Images/G1.png" height="400" width="550"/>
+<img src="/Images/G2.png" height="400" />
+<img src="/Images/G3.png" height="400" />
+<img src="/Images/G4.png" height="400" />
+<img src="/Images/G5.png" height="400" />
+<img src="/Images/G6.png" height="500" />
 
 
 ## Contributors
