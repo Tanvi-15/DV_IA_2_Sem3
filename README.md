@@ -22,4 +22,4 @@ This Repository contains the statistical analysis of the Census income dataset. 
 - Tanvi Deshpande (Roll No: 16010120067)
 
 ### Acknowledgement
-We would like to thanks Prof. Vaibhav Vasani and Prof. Pradnya Bhangale for the guidance and support throughout the coursework.
+We would like to thanks Prof. Vaibhav Vasani, Prof. Pradnya Bhangale and Prof. Swapnil Pawar for the guidance and support throughout the coursework.
